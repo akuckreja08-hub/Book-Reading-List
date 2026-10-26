@@ -36,7 +36,7 @@ This application helps students and developers curate, organize, and monitor the
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayankhanbebea-lgtm/book-reading-list-application.git
+   git clone https://github.com/akuckreja08-hub/Book-Reading-List/edit/main/README.md
    ```
 2. Navigate into the project directory:
    ```bash
